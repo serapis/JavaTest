@@ -9,17 +9,17 @@
 
         function countChecked(){
 
-          alert($(":checked input[type='radio']").length);
+//          alert($("input[type='radio']:checked").attr("value"));
 
 
-//
-//
-//            if($(":checked","input[type='radio']").value=="color1"){
-//                alert(   $(":checked","input[name='color1']").length);
-//
-//            }else if($(":checked","input[type='radio']").value=="color2"){
-//                alert(   $(":checked","input[name='color2']").length);
-//            }
+
+
+            if($("input[type='radio']:checked").attr("value")=="color1"){
+                alert(   $("input[name='color1']:checked").length);
+
+            }else if($("input[type='radio']:checked").attr("value")=="color2"){
+                alert(   $("input[name='color2']:checked").length);
+            }
 
 
 

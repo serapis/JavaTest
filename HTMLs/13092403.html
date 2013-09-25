@@ -4,7 +4,7 @@
     <title></title>
     <script type="text/javascript" src="jquery-latest.js"></script>
 </head>
-<body onload="kk33()">
+<body onload="">
 
 <table id="t1">
     <tr class="odd">
@@ -15,7 +15,7 @@
     </tr>
     <tr class="even">
         <td></td>
-        <td></td>
+        <td>s</td>
         <td></td>
         <td></td>
     </tr>
@@ -48,6 +48,7 @@
 
     </tr>
 </table>
+<input type="button" onclick="hasText()">
 <script>
     function kk() {
 
@@ -68,7 +69,7 @@
     function kk32() {
         var result = '';
         $("table").each(function () {
-            result = result + $("td",$(".odd",this)).length + "\n" + $("tr.even",this).length + "\n";
+            result = result + $("td", $(".odd", this)).length + "\n" + $("tr.even", this).length + "\n";
         })
         alert(result);
     }
@@ -92,19 +93,26 @@
     }
 
 
-    function kk33(){
+    function kk33() {
         var result = '';
         $("table").each(function () {
-            result=result+$("tr.odd td",this).length+"\n"+$("tr.even td",this).length+"\n";
-
-
+            result = result + $("tr.odd td", this).length + "\n" + $("tr.even td", this).length + "\n";
         })
         alert(result);
     }
 
 
-
-
+    function hasText() {
+        var count = 0;
+        //遍历tr
+        $("tr", "#t1").each(function () {
+            //判定此tr下空td数量与总td数量是否相等
+            if ($("td:empty", this).length != $("td", this).length) {
+                count++;
+            }
+        })
+        alert(count);
+    }
 
 
 </script>
