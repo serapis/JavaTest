@@ -7,46 +7,53 @@
     <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
     <script>
 
-        function countChecked(){
+        function countChecked() {
 
 //          alert($("input[type='radio']:checked").attr("value"));
 
 
+            if ($("input[type='radio']:checked").attr("value") == "color1") {
+                alert($("input[name='color1']:checked").length);
+                $("input[name='color1']:checked").each(function () {
+                    if ($(this).prop("checked") == true) {
+                        $(this).prop("checked",false);
+                    } else {
+                        alert($(this).prop("checked"));
+                        $(this).attr("checked","checked");
+                    }
+                })
 
+            } else if ($("input[type='radio']:checked").attr("value") == "color2") {
+                alert($("input[name='color2']:checked").length);
+                $("input[name='color2']:checked").each(function () {
+                    if ($(this).prop("checked") == true) {
+                        $(this).prop("checked", false);
+                    } else {
+                        $(this).prop("checked", true);
+                    }
+                })
 
-            if($("input[type='radio']:checked").attr("value")=="color1"){
-                alert(   $("input[name='color1']:checked").length);
-
-            }else if($("input[type='radio']:checked").attr("value")=="color2"){
-                alert(   $("input[name='color2']:checked").length);
             }
 
 
-
-
         }
-
-
-
-
-
 
 
     </script>
 </head>
 <body>
 
-<input type="checkbox" name="color1" value="黑" />黑
-<input type="checkbox" name="color1" value="红" />红
-<input type="checkbox" name="color1" value="白" />白
-<input type="checkbox" name="color1" value="黄" />黄
+<input type="checkbox" name="color1" value="黑"/>黑
+<input type="checkbox" name="color1" value="红"/>红
+<input type="checkbox" name="color1" value="白"/>白
+<input type="checkbox" name="color1" value="黄"/>黄
 
 <br>
 
-<input type="checkbox" name="color2" value="绿" />绿
-<input type="checkbox" name="color2" value="蓝" />蓝
-<input type="checkbox" name="color2" value="橙" />橙
-<input type="checkbox" name="color2" value="紫" />紫
+<input type="checkbox" name="color2" value="绿"/>绿
+<input type="checkbox" name="color2" value="蓝"/>蓝
+<input type="checkbox" name="color2" value="橙"/>橙
+<input type="checkbox" name="color2" value="紫"/>紫
 
 <br>
 <input type="radio" name="rSelect" value="color1"/>第一组
