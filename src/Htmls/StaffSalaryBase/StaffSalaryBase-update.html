@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+</head>
+<body>
+
+    <input type="hidden" name="ent.ID"/>
+
+    <table class="twoColFormTable">
+        <tr>
+            <td>出账月份编码：</td>
+            <td><select name="ent.salaryMonthId">
+                <option>请选择</option>
+            </select></td>
+            <td>人员合同编码：</td>
+            <td><input type="text" name="ent.postWage"/></td>
+        </tr>
+        <tr>
+            <td>应付工资：</td>
+            <td><input type="text" name="ent.dealPay"/>元</td>
+            <td>实付工资：</td>
+            <td><input type="text" name="ent.realPay"/>元</td>
+        </tr>
+        <tr>
+            <td>基本工资：</td>
+            <td><input type="text" name="ent.baseWage"/>元</td>
+            <td>岗位工资：</td>
+            <td><input type="text" name="ent.postWage"/>元</td>
+        </tr>
+        <tr>
+            <td>绩效工资：</td>
+            <td><input type="text" name="ent.performanceWage"/>元</td>
+            <td>通讯费：</td>
+            <td><input type="text" name="ent.telFee"/>元</td>
+        </tr>
+        <tr>
+            <td>交通费：</td>
+            <td><input type="text" name="ent.trafficFee"/>元</td>
+            <td>住房费：</td>
+            <td><input type="text" name="ent.houseFee"/>元</td>
+        </tr>
+        <tr>
+            <td>个人缴纳公积金：</td>
+            <td><input type="text" name="ent.personHouseFund"/>元</td>
+            <td>个人缴纳保险金：</td>
+            <td><input type="text" name="ent.personInsurance"/>元</td>
+        </tr>
+        <tr>
+            <td>公司缴纳公积金：</td>
+            <td><input type="text" name="ent.companyHouseFund"/>元</td>
+            <td>公司缴纳保险金：</td>
+            <td><input type="text" name="ent.companyInsurance"/>元</td>
+        </tr>
+        <tr>
+            <td>个人所得税：</td>
+            <td><input type="text" name="ent.incomeTax"/>元</td>
+            <td>公司管理费：</td>
+            <td><input type="text" name="ent.managementFee"/>元</td>
+        </tr>
+        <tr>
+            <td>公司税金：</td>
+            <td><input type="text" name="ent.companyTax"/>元</td>
+            <td>报销费：</td>
+            <td><input type="text" name="ent.chargeOffsFee"/>元</td>
+        </tr>
+        <tr>
+            <td>合计：</td>
+            <td><input type="text" name="ent.totalFee"/>元</td>
+        </tr>
+        <tr>
+
+            <td colspan="4" class="tdButton">
+                <input type="button" value="提交"/>
+
+                <input type="button" value="重置"/>
+
+                <input type="button" value="取消"/>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>

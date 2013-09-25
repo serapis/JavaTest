@@ -1,0 +1,65 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<!--
+所有的隐藏字段必须放table标签之前，当前只画table
+name属性的命名必须和后台Action类能接收的命名方式一致，即"ent."+"属性字段"的形式
+-->
+<input type="hidden" name="ent.id"/>
+<input type="hidden" name="ent.staff.id"/>
+<input type="hidden" name="ent.oldStaff.id"/>
+<input type="hidden" name="ent.computer.id"/>
+<!--每行两个字段的table的css类名为twoColFormTable-->
+<table class="twoColFormTable">
+    <tr>
+        <!--字段中文名称的td-->
+        <td>电脑</td>
+        <!--如果需要实现合并单元格，使用colspan或rowspan方式实现-->
+        <td colspan="3">
+            <!--
+            仅仅对没有name属性的字段加id属性，减少id的使用，避免因为id重名造成冲突
+            仅对不是普通长度的控件加 class="long"或 class="short"，正常长度的不用加
+            -->
+            <input type="text" class="long" id="ent_computer_name"/>
+            <input type="button" value="选择电脑"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            当前使用员工：
+        </td>
+        <td>
+            <input type="text" id="ent_staff_name"/>
+            <input type="button" value="选择员工"/>
+        </td>
+        <td>
+            原来使用员工：
+        </td>
+        <td>
+            <input type="text" id="ent_oldStaff_name"/>
+            <input type="button" value="选择员工"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            开始使用日期：
+        </td>
+        <td>
+            <input type="text" name="ent.startDate"/>
+        </td>
+        <td>
+            结束使用日期：
+        </td>
+        <td>
+            <input type="text" name="ent.endDate"/>
+        </td>
+    </tr>
+    <tr>
+        <!--按钮td要加 class="tdButton"来标识出这是一个按钮td-->
+        <td colspan="4" class="tdButton">
+            <input type="button" value="提交"/>
+            &nbsp;&nbsp;&nbsp;&nbsp;
+            <input type="button" value="重置"/>
+            &nbsp;&nbsp;&nbsp;&nbsp;
+            <input type="button" value="取消"/>
+        </td>
+    </tr>
+</table>
