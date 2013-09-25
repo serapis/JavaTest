@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<script>
+    /**
+
+     3.数字加密
+     输入1个四位数，将其加密后输出。
+     方法是将该数每一位上的数字加9，
+     然后除以10取余，做为该位上的新数字，
+     最后将第1位和第3位上的数字互换，第2位和第4位上的数字互换，组成加密后的新数。
+     例：括号内是说明
+     输入
+     1257
+     输出
+     4601
+     */
+
+
+
+    function three(input) {
+        //转换成字符串放入数组
+        var inputString = input + '';
+        var inputArray = inputString.split('');
+
+        //遍历数组，转换成数字，加九除以十取余存回去
+        for (var i = 0; i < inputArray.length; i++) {
+            inputArray[i] = (parseInt(inputArray[i]) + 9) % 10;
+
+
+        }
+        var result = new Array();
+        //调整数组顺序
+        result[0] = inputArray[2];
+        result[2] = inputArray[0];
+        result[1] = inputArray[3];
+        result[3] = inputArray[1];
+        var resultString = '';
+        for (var i = 0; i < result.length; i++) {
+            resultString = resultString + result[i];
+        }
+        console.info(resultString);
+
+    }
+    three(1257)
+
+</script>
+</body>
+</html>

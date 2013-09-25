@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title></title>
+</head>
+<body>
+<form>
+    <input type="radio" name="test" value="1" id="r1">黑</input>
+    <input type="radio" name="test" value="2" id="r2">白</input>
+    <input type="radio" name="test" value="3" id="r3" checked=true>绿</input>
+    <input type="radio" name="test" value="4" id="r4">紫</input>
+    <input type="button" value="change" onclick="change('r3','r2');">
+    <input type="reset"/></form>
+<script>function change(selected, willSelect) {
+    document.getElementById(selected).checked = false;
+    document.getElementById(willSelect).checked = true;
+}</script>
+</body>
+</html>

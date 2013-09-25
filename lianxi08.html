@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<script>
+    /**
+     * 8、求输入两个正整数，第一个是要循环的1-9之间的数a，第二个是要循环的次数n，求a+aa+aaa+aa…a，
+     * 输入a=2,n=3
+     * 输出246（即2+22+222）
+     * int 结果=0；
+     * for（i=1,i<=n）
+     * {
+     * String []  linshi=new String[n]；
+
+     * for(){}  //给数组每元素赋值a
+     * 数组转字符串再转数值
+
+     * 结果=结果+数组的值
+
+     * }
+     */
+
+    function eight(a,n){
+        var result='';
+        for(var i=0;i<n;i++){
+
+           for(var j=0;j<=i;j++){
+               result=result+a;
+           }
+
+        }
+
+
+
+    }
+    eight(2,3);
+</script>
+</body>
+</html>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script type="text/javascript" src="jquery-latest.js"></script>
+</head>
+<body>
+<input type="checkbox" id="ck1" name="color" value="black" onchange="b(this)"/> black
+<input type="checkbox" id="ck2" name="color" value="red" onchange="b(this)"/> red
+<input type="checkbox" id="ck3" name="color" value="white" onchange="b(this)"/> white
+<input type="checkbox" id="ck4" name="color" value="green" onchange="b(this)"/> green
+<input type="button" onclick="aaa()" value="submit"/>
+<script>
+    function a() {
+        var count = 0;
+
+        for (var i = 0; i < 4; i++) {
+            var ss = "#ck";
+            ss = ss + ((i + 1) + '');
+            if ($(ss).prop("checked") == true) {
+                count++;
+            }
+        }
+
+        alert(count);
+
+        for (var i = 0; i < 4; i++) {
+            if ($(ss).prop("checked") == true) {
+                $(ss).prop("checked", false);
+            } else {
+                $(ss).prop("checked", true);
+            }
+        }
+    }
+
+
+    function b(thisone) {
+//        if (thisone.checked == true) {
+//            console.info(thisone.value);
+//        }
+        if ($(thisone).prop("checked") == true) {
+            console.info($(thisone).prop("value"));
+        }
+    }
+
+
+    function aa() {
+        console.info($(":checkbox").length);
+        console.info($(":checkbox")[1].value);
+        console.info($(":checkbox").get(1).value);
+        console.info($(":checkbox").eq(1).prop("value"));
+    }
+
+
+    function aaa() {
+
+        var count = 0;
+
+        //count selected checkboxes
+        $(":checkbox").each(function () {
+            if (this.checked == true) {
+                count++;
+            }
+        })
+        alert(count);
+
+
+        //first checkbox is true
+        if ($(":checkbox")[0].checked == true) {
+            $(":checkbox").each(function (ind, ele) {
+                if (ind % 2 == 0) {
+                    ele.checked = true;
+                }
+            })
+        }
+    }
+
+</script>
+</body>
+</html>

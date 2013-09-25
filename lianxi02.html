@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<script>
+    /**
+     2.计算旅途时间
+     输入2个"yyyymmddhhmm"格式的整数time1和time2，表示火车的出发时间和到达时间，计算并输出旅途时间。
+     如果字符串格式不正确或出发时间晚于到达时间的情况，抛出异常；
+     例：括号内是说明
+     输入
+     201301010712 201301011411（出发时间是2013年1月1日7点10分，到达时间是2013年1月1日14点11分）
+     输出
+     6 小时 59 分钟
+
+
+
+
+
+
+
+     /**
+     *
+     * @param input1 begintime
+     * @param input2 endtime
+     * @returns {boolean}
+     */
+    function two(input1, input2) {
+//按4位2位2位2位2位，存入数组
+        //重新存成Date
+
+
+        var beginDate = new Date(yyyy, mth, dd, hh, mm);
+        var endDate = new Date(yyyy, mth, dd, hh, mm);
+        beginDate = Date.parse(input1);
+        endDate = Date.parse(input2);
+//        var beginDate = new Date(Date.parse.input1);
+//        var endDate = new Date(Date.parse.input2);
+
+
+        if (beginDate < endDate) {
+            var period = new Date(endDate - beginDate);
+
+            console.info(period.toString());
+
+        }
+        else {
+            console.info('Begin time is earlyer than arrive time!');
+            console.info(beginDate.toString());
+            console.info(input1);
+        }
+
+    }
+    two(201301010712, 201301031411);
+
+</script>
+</body>
+</html>

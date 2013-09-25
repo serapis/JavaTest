@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<select multiple="multiple" ondblclick="a('select01','select02')" id="select01">
+    <option>1</option>
+    <option>2</option>
+    <option>3</option>
+</select>
+<select multiple="multiple" ondblclick="a('select02','select03')" id="select02">
+    <option>4</option>
+    <option>5</option>
+    <option>6</option>
+</select>
+<select multiple="multiple" ondblclick="a('select03','select01')" id="select03">
+    <option>7</option>
+    <option>8</option>
+    <option>9</option>
+
+</select>
+
+
+<script>
+    function a(first, second) {
+        var objSelect01 = document.getElementById(first);
+        var objSelect02 = document.getElementById(second);
+        var currSelectText = objSelect01.options[objSelect01.selectedIndex].text;
+        jsRemoveSelectedItemFromSelect(objSelect01);
+        console.info(currSelectText);
+        var varItem = new Option(currSelectText, '');
+        objSelect02.options.add(varItem);
+
+
+    }
+
+
+    // 4.删除select中选中的项
+    function jsRemoveSelectedItemFromSelect(objSelect) {
+        var length = objSelect.options.length - 1;
+        for (var i = length; i >= 0; i--) {
+            if (objSelect[i].selected == true) {
+                objSelect.options[i] = null;
+            }
+        }
+    }
+//
+//
+//    function addOption(object, object2) {
+//        each(object2, function (o, index) {
+//            object.options[index] = o;
+//        })
+//    }
+//    function sortlist(sortName, isDesc) {
+//        var what = document.getElementById(sortName);
+//        this._options = map(what.options, function (o) {
+//            return o;
+//        });
+//        this._options.sort(function (a, b) {
+//            if (a.text > b.text) {
+//                return isDesc == true ? 1 : -1;
+//            } else {
+//                return isDesc == true ? -1 : 1;
+//            }
+//        });
+//        what.options.length = 0;// clear current options
+//        addOption(what, this._options);
+//    }
+//    function map(object, callback, thisp) {
+//        var ret = [];
+//        each.call(thisp, object, function () {
+//            ret.push(callback.apply(thisp, arguments));
+//        });
+//        return ret;
+//    }
+//    function each(object, callback) {
+//        if (undefined === object.length) {
+//            for (var name in object) {
+//                if (false === callback(object[name], name, object))
+//                    break;
+//            }
+//        } else {
+//            for (var i = 0, len = object.length; i < len; i++) {
+//                if (i in object) {
+//                    if (false === callback(object[i], i, object))
+//                        break;
+//                }
+//            }
+//        }
+//    }
+//    var sOrder = true;
+//    function sort() {
+//        if (sOrder) {
+//            sOrder = false;
+//        } else {
+//            sOrder = true;
+//        }
+//        sortlist("objSelect02", sOrder);
+//    }
+
+
+</script>
+</body>
+</html>

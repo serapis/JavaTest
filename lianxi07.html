@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<script>
+    /**
+     * 7、求整数的位数以及各位数之和
+     * 放入数组，求数组长度，数组从头家到位
+     */
+function seven(num){
+        var numArray=(num+'').split('');
+        var sum=0;
+        for(var i=0;i<numArray.length;i++){
+        sum=sum+parseInt(numArray[i]);
+        }
+
+console.info("length is: "+numArray.length);
+        console.info("sum is: "+sum);
+    }
+    seven(224);
+
+</script>
+</body>
+</html>
