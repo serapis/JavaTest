@@ -2,43 +2,499 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49e6f51e-a868-4070-b2b9-87051739050b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/EndDate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaExam130903/one/liguanfu/EnterpriseOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exam/one/liguanfu/Fruit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaExam130903/one/liguanfu/Fruit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exam/one/liguanfu/FruitManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaExam130903/one/liguanfu/FruitManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/computerMD/HardWareUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/machineID/HardWareUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaExam130903/two/liguanfu/HolidayManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exam/one/IFruit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaExam130903/one/IFruit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exam/one/IFruitManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaExam130903/one/IFruitManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaExam130903/two/IHolidayManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaExam130903/one/IOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaExam130903/four/ITaxRate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaExam130903/four/ITaxRateManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaExam130903/three/ITriangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/machineID/MACAddress.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/No1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaExam130903/one/liguanfu/PersonalOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Htmls/SalaryMonth/SalaryMonth-add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Htmls/StaffChargeOffs/StaffChargeOffs-update.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Htmls/StaffSalaryBase/StaffSalaryBase-update.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaExam130903/four/liguanfu/TaxRate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaExam130903/four/liguanfu/TaxRateManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Temp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/javaExam130903/three/liguanfu/Triangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/aa.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Htmls/example.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Htmls/lianxi.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lianxi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/machineID/machineID.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/machineID/md5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Htmls/yuefenbianma-add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Htmls/yufenbianma-update.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/bigset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/localset.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/server.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/server1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/subgrid.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/themes/redmond/images/ui-anim_basic_16x16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/themes/redmond/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/themes/redmond/images/ui-bg_flat_55_fbec88_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/themes/redmond/images/ui-bg_glass_75_d0e5f5_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/themes/redmond/images/ui-bg_glass_85_dfeffc_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/themes/redmond/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/themes/redmond/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/themes/redmond/images/ui-bg_inset-hard_100_f5f8f9_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/themes/redmond/images/ui-bg_inset-hard_100_fcfdfd_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/themes/redmond/images/ui-icons_217bc0_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/themes/redmond/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/themes/redmond/images/ui-icons_469bdd_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/themes/redmond/images/ui-icons_6da8d5_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/themes/redmond/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/themes/redmond/images/ui-icons_d8e7f3_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/themes/redmond/images/ui-icons_f9bd01_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36ajaxing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36ajaxing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36colreorder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36colreorder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36columnchoice.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36columnchoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36custinput.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36custinput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36custvalid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36custvalid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36draganddrop.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36draganddrop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36newapi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36newapi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36resize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36resize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36rtl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36rtl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36scrolling.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36scrolling.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36sortrows.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/36sortrows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/37array.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/37array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/37crud.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/37crud.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/37multiple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/37multiple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/37scroll.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/37scroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/37server.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/37server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/37single.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/37single.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/37toolbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/37toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38array.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38array2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38array2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38array3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38array3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38array4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38array4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38array5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38array5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38array6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38array6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38remote1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38remote1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38remote2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38remote2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38remote3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38remote3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38remote4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38remote4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38remote5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/38remote5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40addnode.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40addnode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40cmtmpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40cmtmpl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40colspan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40colspan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40frmactions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40frmactions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40grpsearch.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40grpsearch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40grpsearch1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40grpsearch1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40grpsearch2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40grpsearch2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40grpsearch3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40grpsearch3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40keyboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40keyboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40subgrid1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40subgrid1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40subgrid2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40subgrid2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40subgrid3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/40subgrid3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/Changes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Haha.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/JSON.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/JsonXml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/JsonXml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/adding.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/adding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/afterinsrow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/afterinsrow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/autowidth.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/bigset.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/bigset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/books.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/calen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/calendar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/cellbug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/celledit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/celledit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/cmultiex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/cmultiex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/colors.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/csvalid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/csvalid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/custbutt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/custbutt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/custfrm.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/custfrm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/database.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/datatype.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/datatype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/dbconfig.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/defparams.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/defparams.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/deleting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/deleting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/editing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/editing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/editing.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/css/ellipsis-xbl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/themes/ellipsis-xbl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/css/ellipsis-xbl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/css/ellipsis-xbl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/example.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/example.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/exportex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/exportex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/formatter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/formatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/getex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/getex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/plugins/grid.addons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/grid.base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/grid.base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/grid.celledit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/grid.celledit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/grid.common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/grid.common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/grid.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/grid.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/grid.filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/grid.filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/grid.formedit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/grid.formedit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/grid.grouping.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/grid.grouping.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/grid.import.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/grid.import.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/grid.inlinedit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/grid.inlinedit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/grid.jqueryui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/grid.jqueryui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/grid.loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/grid.loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-bg1251.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-bg1251.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-bg1251.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-bg1251.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-cat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-cat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-cat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-cat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-dk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-dk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-dk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-dk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-hr1250.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-hr1250.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-jp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-jp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-kr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-kr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-mne.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-mne.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-mne.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-sp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-sp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-sr-latin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-sr-latin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-tw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-tw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/i18n/grid.locale-ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/i18n/grid.locale-ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/i18n/grid.locale-vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/i18n/grid.locale-vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/grid.postext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/plugins/grid.postext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/grid.setcolumns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/plugins/grid.setcolumns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/grid.subgrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/grid.subgrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/grid.tbltogrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/grid.tbltogrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/grid.treegrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/grid.treegrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/gridwidth.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/gridwidth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/hiddengrid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/hiddengrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/hidedyn.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/hidedyn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/hideex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/hideex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/hideshow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/hideshow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/install.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/jqDnR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/jqDnR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/jqModal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/jqModal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/jqgrid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/jquery-1.9.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/themes/redmond/jquery-ui-1.8.2.custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/jquery-ui-1.8.2.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/jquery.contextmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/plugins/jquery.contextmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/jquery.fmatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/jquery.fmatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/jquery.jqGrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/jquery.jqGrid.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/jquery.jqGrid.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/js/jquery.jqGrid.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/jquery.layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/css/jquery.searchFilter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/jquery.searchFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/plugins/jquery.searchFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/jquery.tablednd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/plugins/jquery.tablednd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/jsonex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/jsonex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/jsonmap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/jsonmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/jsonopt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/jsonopt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/jsubgrid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/jsubgrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/loadcml.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/loadcml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/loaderror.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/loaderror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/loadoncex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/loadoncex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/localex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/localex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/longtext.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/manipex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/manipex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/masterex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/masterex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/methods.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/methods32.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/methods32.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/multibug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/multiex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/multiex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/navgrid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/navgrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/navgrid2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/navgrid2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/navgrid3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/navgrid3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/navgrid4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/navgrid4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/postdata.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/postdata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/refactor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/resizecol.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/resizecol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/resizeex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/resizeex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/rowedex1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/rowedex1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/rowedex2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/rowedex2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/rowedex3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/rowedex3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/rowedex4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/rowedex4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/rowedex5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/rowedex5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/scrgrid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/scrgrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/search1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/search1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/search2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/search2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/search3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/search3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/search4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/search4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/plugins/searchFilter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/search_adv.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/searching.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/searching.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/selectall.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/selectall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/server.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/server_ado.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/setcolumns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/setcolumns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/setex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/setex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/someurl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/sortcols.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/sortcols.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/speed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/speed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/subgrid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/subgrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/subgrid_grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/subgrid_grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/summary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/tablednd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/tablednd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/tablednd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/tbltogrid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/tbltogrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/testxml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/toolbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/tree.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/treegrid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/treegrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/treegrid2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/treegrid2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/treegridadv.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/treegridadv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/css/ui.jqgrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/themes/ui.jqgrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/css/ui.jqgrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/css/ui.jqgrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/css/ui.multiselect.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/themes/ui.multiselect.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/plugins/ui.multiselect.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/src/css/ui.multiselect.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/ui.multiselect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/js/src/ui.multiselect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jquery.jqGrid-4.5.2/plugins/ui.multiselect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/xmlex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/xmlex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/xmlex2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/xmlimp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/xmlimp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/xmlmap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jqgrid_demo40/xmlmap.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaTest.iws" />
@@ -122,8 +578,8 @@
       <list>
         <option value="$PROJECT_DIR$/4.html" />
         <option value="$PROJECT_DIR$/HTMLs/13092403.html" />
-        <option value="$PROJECT_DIR$/HTMLs/13092501.html" />
         <option value="$PROJECT_DIR$/HTMLs/4.html" />
+        <option value="$PROJECT_DIR$/HTMLs/13092501.html" />
       </list>
     </option>
   </component>
@@ -161,6 +617,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -179,9 +636,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -189,14 +659,14 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="274" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="291" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="294" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="294" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="304" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="975" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="968" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="975" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="297" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="285" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -219,10 +689,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHubProjects\JavaTest\src" />
       <recent name="D:\GitHubProjects\JavaTest\src\Htmls" />
       <recent name="D:\GitHubProjects\JavaTest\src\javaExam130903" />
       <recent name="D:\GitHubProjects\JavaTest\src\computerMD" />
-      <recent name="D:\GitHubProjects\JavaTest\src" />
       <recent name="D:\GitHubProjects\JavaTest" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -230,6 +700,12 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <module name="" />
       <setting name="vmparams" value="" />
@@ -238,12 +714,6 @@
       <setting name="passParentEnv" value="true" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <setting name="launchBrowser" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -289,6 +759,19 @@
       <option name="trusted" value="true" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -315,19 +798,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -366,22 +836,6 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <method />
-    </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
       <option name="BCName" value="" />
       <option name="IOSSimulatorSdkPath" value="" />
@@ -417,6 +871,22 @@
       <option name="usbDebugPort" value="7936" />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
     <list size="0" />
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -450,7 +920,8 @@
       <workItem from="1380031000249" duration="108000" />
       <workItem from="1380070870052" duration="8927000" />
       <workItem from="1380083449887" duration="375000" />
-      <workItem from="1380083981738" duration="998000" />
+      <workItem from="1380083981738" duration="1214000" />
+      <workItem from="1380086842144" duration="2982000" />
     </task>
     <task id="LOCAL-00001" summary="some html files, about JS &amp; JQuery">
       <created>1380071362263</created>
@@ -464,11 +935,15 @@
       <created>1380078441304</created>
       <updated>1380078441304</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add old codes into this project">
+      <created>1380085040734</created>
+      <updated>1380085040734</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10539000" />
+    <option name="totallyTimeSpent" value="13737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -494,11 +969,11 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12540022" sideWeight="0.67021275" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -512,7 +987,8 @@
     <MESSAGE value="some html files, about JS &amp; JQuery" />
     <MESSAGE value="change fiels path" />
     <MESSAGE value="practices on 130925" />
-    <option name="LAST_COMMIT_MESSAGE" value="practices on 130925" />
+    <MESSAGE value="add old codes into this project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add old codes into this project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -520,79 +996,67 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/HTMLs/13092301.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2090">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2090" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTMLs/13092302.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="913">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="913" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTMLs/13092303.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="913">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="913" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTMLs/13092304.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="913">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="913" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTMLs/13092401.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1615">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1615" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTMLs/4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="620" selection-end="620" vertical-scroll-proportion="0.46327683" vertical-offset="46" max-vertical-offset="1159">
-          <folding />
-        </state>
+        <state line="24" column="0" selection-start="620" selection-end="620" vertical-scroll-proportion="0.46327683" vertical-offset="46" max-vertical-offset="1159" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTMLs/13092403.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="67" selection-start="54" selection-end="117" vertical-scroll-proportion="0.085875705" vertical-offset="0" max-vertical-offset="2413">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTMLs/13092501.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="14" selection-start="396" selection-end="396" vertical-scroll-proportion="0.1841808" vertical-offset="255" max-vertical-offset="2109">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/work/aaa/src/lianxi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9500">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/My Box Files/IntelliJ WorkSpace/aaa/src/lianxi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11305">
-          <folding />
-        </state>
+        <state line="4" column="67" selection-start="54" selection-end="117" vertical-scroll-proportion="0.085875705" vertical-offset="0" max-vertical-offset="2413" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lianxi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="398" column="26" selection-start="9082" selection-end="9082" vertical-scroll-proportion="8.137705" vertical-offset="116" max-vertical-offset="9500">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLs/13092501.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="4" selection-start="1105" selection-end="1105" vertical-scroll-proportion="0.2931229" vertical-offset="1165" max-vertical-offset="2109">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/My Box Files/IntelliJ WorkSpace、javaPractices/src/colors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/My Box Files/IntelliJ WorkSpace、javaPractices/src/Haha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="988">
+          <folding>
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
