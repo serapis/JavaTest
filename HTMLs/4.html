@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title></title>
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script>
+
+        function countChecked(){
+
+          alert($(":checked input[type='radio']").length);
+
+
+//
+//
+//            if($(":checked","input[type='radio']").value=="color1"){
+//                alert(   $(":checked","input[name='color1']").length);
+//
+//            }else if($(":checked","input[type='radio']").value=="color2"){
+//                alert(   $(":checked","input[name='color2']").length);
+//            }
+
+
+
+
+        }
+
+
+
+
+
+
+
+    </script>
+</head>
+<body>
+
+<input type="checkbox" name="color1" value="黑" />黑
+<input type="checkbox" name="color1" value="红" />红
+<input type="checkbox" name="color1" value="白" />白
+<input type="checkbox" name="color1" value="黄" />黄
+
+<br>
+
+<input type="checkbox" name="color2" value="绿" />绿
+<input type="checkbox" name="color2" value="蓝" />蓝
+<input type="checkbox" name="color2" value="橙" />橙
+<input type="checkbox" name="color2" value="紫" />紫
+
+<br>
+<input type="radio" name="rSelect" value="color1"/>第一组
+<input type="radio" name="rSelect" value="color2"/>第二组
+<input type="button" value="输出" onclick="countChecked()"/>
+</body>
+</html>
